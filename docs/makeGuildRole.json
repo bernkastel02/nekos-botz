@@ -1,0 +1,7 @@
+{
+    "functionName": "makeGuildRole",
+    "functionArguments": [
+        "serverID",
+    ],
+    "functionDescription": "This function creates a new role."
+}

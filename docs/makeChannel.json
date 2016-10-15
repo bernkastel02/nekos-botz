@@ -1,0 +1,9 @@
+{
+    "functionName": "makeChannel",
+    "functionArguments": [
+        "serverID",
+        "channame",
+        "chantype"
+    ],
+    "functionDescription": "This function creates a new channel, either voice or chat."
+}
